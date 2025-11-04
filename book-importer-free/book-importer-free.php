@@ -2,7 +2,6 @@
 /*
 Plugin Name: Book Importer Free
 Description: Maps books with WooCommerce products (SKU = ISBN). 
-Version: 1.0
 Author: Mwithalii
 */
 
