@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Book Importer Free
-Description: Import Books CSV into Book CPT + create WooCommerce products (SKU = ISBN). 
+Description: Maps books with WooCommerce products (SKU = ISBN). 
 Version: 1.0
 Author: Mwithalii
 */
