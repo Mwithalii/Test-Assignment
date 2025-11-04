@@ -34,7 +34,7 @@ function yc_register_book_cpt() {
         'supports'              => array( 'title', 'editor', 'thumbnail', 'excerpt', 'custom-fields' ),
         'has_archive'           => true,
         'rewrite'               => array( 'slug' => 'books' ),
-        'show_in_rest'          => true,               // enables Gutenberg & REST API
+        'show_in_rest'          => true,               
         'capability_type'       => 'post',
         'hierarchical'          => false,
     );
